@@ -12,3 +12,7 @@ A SQL-based Productivity Tracker to efficiently manage tasks, track progress, an
 ## **ER Diagram**
 - 📊Represents tables, relationships, and keys for the database 
 - Helps visualize the structure of the Productivity Tracker 
+
+## **Requirements**
+- 💻 MySQL / SQL Workbench
+- 📄 Basic understanding of SQL quries
