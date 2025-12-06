@@ -15,4 +15,9 @@ A SQL-based Productivity Tracker to efficiently manage tasks, track progress, an
 
 ## **Requirements**
 - 💻 MySQL / SQL Workbench
-- 📄 Basic understanding of SQL quries
+- 📄 Basic understanding of SQL queries
+
+## **How to Use**
+1️⃣ Import the SQL scripts into your database.
+2️⃣ Run queries to add, update, or delete tasks.
+3️⃣ View output to moniter task progress and productivity.
