@@ -1,6 +1,6 @@
 # Productivity_Tracker📊
 
-## **Description**
+## **Description**📌
 A SQL-based Productivity Tracker to efficiently manage tasks, track progress, and improve overall productivity. Users can add, update, and moniter tasks with ease.
 
 ## **Features**
